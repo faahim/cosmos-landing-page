@@ -12,14 +12,12 @@
     "gatsby": "next",
     "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-sass": "next",
-    "gatsby-plugin-typography": "^1.7.18",
     "modern-normalize": "^0.4.0",
     "node-sass": "^4.9.0",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-helmet": "^5.2.0",
-    "typography-theme-fairy-gates": "^0.15.11"
+    "react-helmet": "^5.2.0"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
